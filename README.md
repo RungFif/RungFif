@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @RungFif
+- 👀 I’m interested in learning programming and designing
+- 🌱 I’m currently learning HTML/CSS and JavaScript
+- 📫 You can reach me via discord 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Im practically new to programming
