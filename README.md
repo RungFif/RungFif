@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @RungFif
+- 👀 I’m interested in making cool websites
+- 🌱 I’m currently learning HTML/CSS
+- 💞️ I’m looking to forward to studying with you
+- 📫 you can reach me via discord @a.ver1e
+- ⚡ Fun fact: I just started programming
